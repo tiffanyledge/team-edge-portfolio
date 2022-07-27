@@ -1,0 +1,14 @@
+html, body {
+    width: 100;
+}
+
+body {
+background-color: rgb(255, 254, 242);
+font-family:fantasy;
+color: black;
+}
+h1{
+    text-align: left;
+}
+
+/* text-allign: center */
