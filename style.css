@@ -3,12 +3,20 @@ html, body {
 }
 
 body {
-background-color: rgb(255, 254, 242);
-font-family:fantasy;
+background-color: white;
 color: black;
 }
 h1{
-    text-align: left;
+text-align: center;
+font-family: serif;
+font-weight: lighter;
+font-size: 30px;
 }
-
-/* text-allign: center */
+p{
+color:tomato
+}
+.name{
+    margin: auto;
+    width: 50%;
+    padding: 40px;
+}
